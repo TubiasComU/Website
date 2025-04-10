@@ -1,0 +1,286 @@
+/*      Style Sheet :D      */
+
+div {
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+a.branco:visited {
+    color: white;
+}
+
+a.texto:hover {
+    color: rgb(255, 196, 0);
+}
+
+button.fundo:hover {
+    background-color: rgb(255, 196, 0);
+    border-color: rgb(255, 196, 0);
+}
+
+button.fundo2:hover {
+    color: white;
+}
+
+button.preto:hover {
+    color: black;
+    background-color: black;
+    border-color: black;
+}
+
+.azul {
+    background-color: rgb(0, 117, 226);
+    border-color: rgb(0, 117, 226);
+}
+
+.azul2 {
+    border-color: rgb(0, 117, 226);
+    background-color: rgb(246, 246, 246);
+    color: rgb(0, 117, 226);
+}
+
+.b100 {
+    width: 97%;
+}
+
+button.b100:hover {
+    background-color: rgb(0, 88, 170);
+}
+
+
+.bg11 {
+    width: 100%;
+    height: 1000px;
+    background-image: url("https://websitedemos.net/online-coding-course-02/wp-content/uploads/sites/713/2020/10/online-programming-course-hero-section-bg.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+.bg12 {
+    width: 100%;
+    height: 400px;
+    background-image: url("https://websitedemos.net/online-coding-course-02/wp-content/uploads/sites/713/2020/10/online-programming-course-hero-section-bg.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+.bg22 {
+    width: 100%;
+    height: 500px;
+    background-image: url("https://websitedemos.net/online-coding-course-02/wp-content/uploads/sites/713/2020/10/online-programming-course-cta-section-bg.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom left;
+}
+
+.bg2 {
+    background-image: url("https://websitedemos.net/online-coding-course-02/wp-content/uploads/sites/713/2020/10/online-programming-course-featured-review-figure-img.png");
+    background-repeat: no-repeat;
+}
+
+.bg21 {
+    background-image: url("https://websitedemos.net/online-coding-course-02/wp-content/uploads/sites/713/2020/10/online-programming-courses-section-bg.svg");
+    background-position: bottom left;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.mb1 {
+    margin-bottom: 55px;
+}
+
+.mb2 {
+    margin-bottom: 70px;
+}
+
+.mb3 {
+    margin-bottom: 200px;
+}
+
+.mb4 {
+    margin-bottom: 25px;
+}
+
+.mb5 {
+    margin-bottom: -8px;
+}
+
+
+
+.mt1 {
+    margin-top: 250px;
+}
+
+.mt2 {
+    margin-top: 80px;
+}
+
+.mt3 {
+    margin-top: 150px;
+}
+
+.mt4 {
+    margin-top: 80px;
+}
+
+.mt5 {
+    margin-top: -20px;
+}
+
+.mt6 {
+    margin-top: -16px;
+}
+
+.mt7 {
+    margin-top: 200px;
+}
+
+.mt8 {
+    margin-top: 100px;
+}
+
+
+.mr1 {
+    margin-right: 120px;
+}
+
+.mr2 {
+    margin-right: 30px;
+}
+
+.ml1 {
+    margin-left: -220px;
+}
+
+.ml2 {
+    margin-left: -230px;
+}
+
+
+.pt1 {
+    padding-top: 100px;
+}
+
+.pt2 {
+    padding-top: 30px;
+}
+
+.pt3 {
+    padding-top: 100px;
+}
+
+.pt4 {
+    padding-top: 150px;
+}
+
+.pb1 {
+    padding-bottom: 100px;
+}
+
+.pb2 {
+    padding-bottom: 30px;
+}
+
+.pb3 {
+    padding-bottom: 60px;
+}
+
+.pb4 {
+    padding-bottom: 200px;
+}
+
+
+.pl1 {
+    padding-left: 70px;
+}
+
+.font {
+    font-size: 50px;
+}
+
+.font1 {
+    font-size: 15px;
+}
+
+.font2 {
+    font-size: 14px;
+}
+
+.position1 {
+    position: relative;
+    left: 30%;
+}
+
+.position2 {
+    position: relative;
+    bottom: 40px;
+}
+
+.position3 {
+    position: relative;
+    top: 50px;
+}
+
+.fontpoppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+.tamanho {
+    font-size: 55px;
+}
+
+.div1 {
+    width: 60%;
+}
+
+.div7 {
+    width: 45%;
+}
+
+.div2 {
+    width: 100%;
+    height: 450px;
+}
+
+.div3 {
+    background-color: white;
+}
+
+.div4 {
+    width: 40%;
+}
+
+.div5 {
+    height: 220px;
+}
+
+.div6 {
+    background-color: rgb(250, 250, 250);
+}
+
+
+.border1 {
+    border-top: 1px solid rgb(131, 131, 131);
+}
+
+.ye {
+    color: rgb(255, 196, 0);
+}
+
+.img {
+    width: 268px;
+    height: 268px;
+}
+
+.borderrad {
+    border-radius: 250px;
+}
+
+.acidos {
+    border-radius: 20px;
+}
